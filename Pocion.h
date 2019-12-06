@@ -23,7 +23,7 @@ public: //Constructor de pocion,  geter y seter de nombre y puntos restaurados
       nombre = n;
     }
 
-    int set_puntos_restaurados(){
+    int get_puntos_restaurados(){
       return puntos_restaurados;
     }
 
